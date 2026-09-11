@@ -38,7 +38,7 @@ from Crypto.Util.Padding import pad, unpad
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 OPEN_ID = "a39b437a6625085647115c08a72a9921"
-ACCESS_TOKEN = "b3b56072c2b5b0df142991633646e5cfdd07381f3eac915354bc72c2715cdf39"
+ACCESS_TOKEN = "55c5790d6ce1446932bab3ed7d91bd4703a60cec1fcdddf75f0d4c09edb95350"
 online_writer = None
 whisper_writer = None
 spam_room = False
